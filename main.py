@@ -1,4 +1,5 @@
 print('MASTER BRANCH')
 
 def experimental():
-    pass
+    a = 1 + 2
+    print(a)
