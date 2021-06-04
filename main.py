@@ -5,4 +5,8 @@ def experimental():
     print(a)
 
 def new_feature():
-    print('devdev')
+    print('dev dev')
+
+def new():
+    print('new')
+    print('hi')
